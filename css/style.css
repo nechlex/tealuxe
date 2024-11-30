@@ -208,7 +208,7 @@ body {
     font-size: 13px;
   }
   .mobile-actions {
-    border-color: #f7f2ea;
+    background-color: #f7f2ea;
     height: 60px;
     padding: 0 80px;
     display: flex;
